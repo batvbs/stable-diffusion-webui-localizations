@@ -1,3 +1,10 @@
+[batvbs](https://github.com/batvbs)使用[DeepL](https://www.deepl.com/translator)进行初步翻译，人工修正部分错误。
+
+## 稳定扩散的网页用户界面
+
+一个基于Gradio库的稳定扩散的浏览器界面。
+
+![](txt2img_Screenshot.png)
 
 查看[自定义脚本](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Custom-Scripts) 维基页面，了解用户开发的额外脚本。
 
