@@ -1,7 +1,7 @@
-# README.md Language
-- [English](https://github.com/batvbs/stable-diffusion-webui-localizations/blob/localizations/md/README.md) 
+# Language
+- [English](md/README.md) 
 
-- [简体中文](https://github.com/batvbs/stable-diffusion-webui-localizations/blob/localizations/md/README_简体中文.md) 
+- [简体中文](md/README_zh-CN.md) 
 
 - Welcome to add
 
